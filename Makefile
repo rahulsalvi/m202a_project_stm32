@@ -63,6 +63,7 @@ Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c \
 Core/Src/system_stm32f4xx.c  \
 RTT/SEGGER_RTT.c \
 RTT/SEGGER_RTT_printf.c \
+src/serial_msgs.c \
 src/m202a_datalogger.c
 
 # ASM sources
