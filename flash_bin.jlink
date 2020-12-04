@@ -1,2 +1,3 @@
 loadfile build/m202a_datalogger.bin 0x08000000
 r
+g
