@@ -12,7 +12,7 @@ CAN_FilterTypeDef filter;
 
 serial_msg_t ser_msg;
 
-#define DEBUG
+/* #define DEBUG */
 
 void setup() {
     init_serial_msg(&ser_msg);
